@@ -33,3 +33,10 @@ When a single filter is applied, the data is limited to entries that match that 
 Thew picture above shows how th edata will populate when multiple filters are utilized. The only results that will populate the table will iunclude matches for all filter used. In this case results will match the "Date" and "State" filters.
 
 ## Summary
+
+### Webpage's Major Drawback
+The main drawback of the webpage woiuld be the lack of recogntion in the script. When using filters to search trhough the table data, the syntax and punctuation must match excatly. This means that the filters are case sensitive and the date is format sensitive. It does not recognize the "true" value of the search term, but only the exact. This could also affect additional data being input into the webpage as more UFO are seen ie: they input the date as **01/010/2010** rather than **1/1/2010**. 
+
+### Suggestions
+- Allowing the search filters to be not case senstive would greately improve isability of the web app.
+- Adding input boxes for addtional UFO submissions would also increase the analytical capabilities of the website.
